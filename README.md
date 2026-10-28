@@ -76,5 +76,4 @@ ctest --test-dir build --output-on-failure
 - Review concurrency code for data races and lifetime issues.
 - Examples are educational; review and test before production use.
 
-## License
-MIT — see [LICENSE](LICENSE).
+
